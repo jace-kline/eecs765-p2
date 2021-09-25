@@ -32,7 +32,7 @@ After sending the malicious input above, return attention to the listener shell.
 
 ## Developing the Exploit
 
-In this section, we talk about the general thought process used when developing the exploits. We first outline the exploit structure and then specify the specific parameters relevant to each attack.
+In this section, we talk about the general thought process used when developing the exploits. We outline the exploit structure, the specific parameters relevant to the attack, and the generation of our malicious input.
 
 ### Malicious Input Structure
 
